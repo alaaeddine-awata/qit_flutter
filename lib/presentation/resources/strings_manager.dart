@@ -1,0 +1,46 @@
+import 'package:easy_localization/easy_localization.dart';
+
+class AppStrings {
+  String arabic = "arabic".tr();
+  String english = "english".tr();
+  String noInternetError = "noInternetError".tr();
+  String signUp = "signUp".tr();
+  String name = "name".tr();
+  String email = "email".tr();
+  String password = "password".tr();
+  String confirmPassword = "confirmPassword".tr();
+  String pleaseFillOutAllFields = "pleaseFillOutAllFields".tr();
+  String alreadyHaveAnAccount = "alreadyHaveAnAccount".tr();
+  String login = "login".tr();
+  String helloAgain = "helloAgain".tr();
+  String dontHaveAnAccount = "dontHaveAnAccount".tr();
+  String exploreTheApp = "exploreTheApp".tr();
+  String or = "or".tr();
+  String loggedInSuccessfully = "loggedInSuccessfully".tr();
+  String signInSuccessfully = "loggedInSuccessfully".tr();
+  String somethingWentWrong = "somethingWentWrong".tr();
+  String passwordsDoesNotMatch = "passwordsDoesNotMatch".tr();
+  String noPostData = "noPostData".tr();
+  String retry = "retry".tr();
+  String productAddedSuccessfully = "productAddedSuccessfully".tr();
+  String productRemovedSuccessfully = "productRemovedSuccessfully".tr();
+  String pleaseLoginToContinue = "pleaseLoginToContinue".tr();
+  String attention = "attention".tr();
+  String details = "details".tr();
+  String yourCartIsEmpty = "yourCartIsEmpty".tr();
+  String home = "home".tr();
+  String cart = "cart".tr();
+  String quantity = "quantity".tr();
+  String totalPrice = "totalPrice".tr();
+  String cartTotalPrice = "cartTotalPrice".tr();
+  String areYouSureYouWantToLogOut = "areYouSureYouWantToLogOut".tr();
+  String no = "no".tr();
+  String yes = "yes".tr();
+  String destroysAllAccessTokensForUser = "destroysAllAccessTokensForUser".tr();
+  String chooseAppLanguage = "chooseAppLanguage".tr();
+  String productDetails = "productDetails".tr();
+  String addToCart = "addToCart".tr();
+  String title = "title".tr();
+  String price = "price".tr();
+  String selectQuantity = "selectQuantity".tr();
+  }

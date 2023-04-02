@@ -1,0 +1,7 @@
+flutter_icons:
+  android: "ic_launcher"
+  adaptive_icon_background: "assets/ic_launcher_adaptive_back.png"
+  adaptive_icon_foreground: "assets/ic_launcher_adaptive_fore.png"
+  ios: true
+  image_path: "assets/ic_launcher.png"
+  min_sdk_android: 16 # android min sdk min:16, default 21
